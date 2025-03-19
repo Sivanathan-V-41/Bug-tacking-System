@@ -1,0 +1,12 @@
+DATE AND TIME : Sat Feb 18 11:10:15 2023
+BUG ID : 1
+
+BUG FILED BY: server1.txt
+
+TYPE OF BUG: hub
+BUG PRIORITY: 42^ server hub ff
+
+BUG DESCRIPTION: tracking hub
+
+DATE AND TIME: Sat Feb 18 11:10:15 2023
+BUG STATUS:FIXED

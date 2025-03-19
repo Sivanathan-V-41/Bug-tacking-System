@@ -1,0 +1,12 @@
+DATE AND TIME : Tue Jul 30 19:50:48 2024
+BUG ID : 1
+
+BUG FILED BY: big1.txt
+
+TYPE OF BUG: eye
+BUG PRIORITY: 22
+
+BUG DESCRIPTION: to track the unkow user make it as hi friend
+
+DATE AND TIME: Tue Jul 30 19:50:48 2024
+BUG STATUS:IN PROCESS

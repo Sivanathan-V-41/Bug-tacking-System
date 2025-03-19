@@ -1,0 +1,12 @@
+DATE AND TIME : Mon Jul 15 11:35:22 2024
+BUG ID : 1
+
+BUG FILED BY: track1.txt
+
+TYPE OF BUG: tt 2.//87
+BUG PRIORITY: 5.4
+
+BUG DESCRIPTION: to track mobile communicatiob
+
+DATE AND TIME: Mon Jul 15 11:35:22 2024
+BUG STATUS:IN PROCESS

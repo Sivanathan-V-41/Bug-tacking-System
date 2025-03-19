@@ -1,0 +1,12 @@
+DATE AND TIME : Sat Nov 27 18:40:57 2021
+BUG ID : 1
+
+BUG FILED BY: leesiva05@gmail.com1.txt
+
+TYPE OF BUG: runtime
+BUG PRIORITY: 22
+
+BUG DESCRIPTION: to track camer
+
+DATE AND TIME: Sat Nov 27 18:40:57 2021
+BUG STATUS:IN PROCESS

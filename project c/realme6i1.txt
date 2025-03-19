@@ -1,0 +1,12 @@
+DATE AND TIME : Tue Nov 09 15:23:52 2021
+BUG ID : 1
+
+BUG FILED BY: realme6i1.txt
+
+TYPE OF BUG: runtime
+BUG PRIORITY: low
+
+BUG DESCRIPTION: to track camera
+
+DATE AND TIME: Tue Nov 09 15:23:52 2021
+BUG STATUS:FIXED
